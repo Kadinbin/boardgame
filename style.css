@@ -28,3 +28,12 @@
   border: 3px solid green;
   padding: 10px;
 }
+font-family: system-ui;
+  
+  color: black
+   ;
+  text-align: center;
+}
+
+p {max-width: 900px;
+margin: auto;}
